@@ -1,0 +1,108 @@
+/*================= For Tablat =================*/
+@media only screen and  (min-width:768px) and (max-width:991px){
+    
+    body
+    {
+        width:750px;
+    }
+     .container{
+        max-width: 320px;
+    }
+    #header-id .navbar .navbar-brand img
+{
+    margin: 0 10px;
+}
+    #header-id .menu
+{
+    margin: 15px 5px;
+}
+#header-id .menu ul li
+{
+    margin: 0 2px;
+}
+    #header-id .slider-content h1 {
+   font-size: 23px;
+line-height: 40px;
+   
+}
+    
+  .service-header h2 {
+    font-size: 20px; 
+} 
+    .port-img img
+    {
+        width: 100%;
+    }
+    .feature-des p
+    {
+        margin-left: 31%;
+    }
+.skill h2
+    {
+        font-size: 20px;
+    }
+    #blog-section .blog-post img
+    {
+        width: 100%;
+    }
+    .blog-btn a
+    {
+        margin-left: 25%;
+    }
+    .sub-footer-con .button
+    {
+        margin-left: 19%;
+    }
+    .client-des img {
+  margin-left: 34%;
+}
+}
+
+/*==================== For Mobile =====================  */
+/*
+@media only screen and  (max-width:767px){
+    .container{
+        max-width: 320px;
+    }
+   #header-id .slider-content h1 {
+    font-size: 30px;
+    line-height: 40px;
+}
+    
+ .section-header h2 {
+    font-size: 22px; 
+} 
+ .fuature-icon {
+    float: left;
+    margin: 90px 20px;
+    font-size: 20px;
+    border: 1px solid #423b88;
+    border-radius: 50%;
+    line-height: 40px;
+    padding: 0 0 0 15px;
+    height: 40px;
+    width: 40px;
+    color: #f50f0f;
+}
+    
+    .fuature-des p {
+    margin-left: 30%;
+        padding-right: 10px;
+    padding-bottom: 24px;
+}
+}
+
+*/
+
+/*  ================ For Width Mobile ================ */
+/*
+@media only screen and (min-width:480px) and (max-width:767px) {
+    body{
+        background-color: blue;
+    }
+    h1{
+        font-size: 50px;
+        color: #fff;
+    }
+}
+*/
